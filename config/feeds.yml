@@ -6,7 +6,7 @@ headers:
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:68.0) Gecko/20100101 Firefox/68.0"
 feeds:
   # your custom feeds go here:
-  example:
+  1tamilmv:
     channel:
       url: https://www.1tamilmv.team/
     selectors:
