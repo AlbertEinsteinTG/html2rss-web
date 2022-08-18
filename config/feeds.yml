@@ -13,8 +13,8 @@ feeds:
       items:
         selector: "#ipsLayout_mainArea > div:nth-child(2) > ul > li.ipsWidget.ipsWidget_horizontal.ipsBox.ipsResponsive_block.ipsResponsive_hidePhone.ipsResponsive_hideDesktop > div > ul > li"
       title:
-        selector: "div> h4 > span:nth-child(2) > a"
+        selector: "#ipsLayout_mainArea > div:nth-child(2) > ul > li.ipsWidget.ipsWidget_horizontal.ipsBox.ipsResponsive_block.ipsResponsive_hidePhone.ipsResponsive_hideDesktop > div > ul > li > div> h4 > span:nth-child(2) > a"
       link:
-        selector: "div > h4 > span:nth-child(2) > a"
+        selector: "#ipsLayout_mainArea > div:nth-child(2) > ul > li.ipsWidget.ipsWidget_horizontal.ipsBox.ipsResponsive_block.ipsResponsive_hidePhone.ipsResponsive_hideDesktop > div > ul > li > div > h4 > span:nth-child(2) > a"
         extractor: "href"
 
